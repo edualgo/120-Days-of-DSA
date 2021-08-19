@@ -9,7 +9,9 @@
 - Clone this repository
 - Create a folder with your leetcode username
 - Submit your solutions one by one
-- Complete all the 120 problems and get a completion certificate
+- Complete all the 120 problems 
+- Tag us with every problem's solution on LinkedIn or Twitter 
+- Get a completion certificate
 
 
 ### How to get the list ?
